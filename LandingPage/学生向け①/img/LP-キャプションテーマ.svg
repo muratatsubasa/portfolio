@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="445" viewBox="0 0 1920 445">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-LP-キャプションテーマ);
+      }
+
+      .cls-2 {
+        fill: #6ea19d;
+      }
+
+      .cls-3 {
+        fill: #f3f0ea;
+        font-size: 60px;
+        font-family: TsukuARdGothic-Bold, Tsukushi A Round Gothic;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-family: LucidaGrande-Bold, Lucida Grande;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #f3f0ea;
+        stroke-linecap: round;
+        stroke-width: 10px;
+        stroke-dasharray: 10 30;
+      }
+
+      .cls-6 {
+        fill: #a1c7bb;
+      }
+    </style>
+    <clipPath id="clip-LP-キャプションテーマ">
+      <rect width="1920" height="445"/>
+    </clipPath>
+  </defs>
+  <g id="LP-キャプションテーマ" class="cls-1">
+    <rect class="cls-6" width="1920" height="445"/>
+    <circle id="楕円形_115" data-name="楕円形 115" class="cls-2" cx="150" cy="150" r="150" transform="translate(810 -150)"/>
+    <text id="まずはここから始めよう_" data-name="まずはここから始めよう‼︎" class="cls-3" transform="translate(550 223)"><tspan x="63.124" y="58">まずはここから始めよう</tspan><tspan class="cls-4" y="58">‼︎</tspan></text>
+    <path id="パス_6" data-name="パス 6" class="cls-5" d="M0,0H780" transform="translate(570.5 326.5)"/>
+  </g>
+</svg>

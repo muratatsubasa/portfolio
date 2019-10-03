@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="../css/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Caveat" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  <link rel="shortcut icon" href="../img/CWC_ファビコン.png">
+  <script type="text/javascript" src="http://code.jquery.com/jquery-3.1.0.min.js"></script>
+  <script>
+    $(function(){
+      // #で始まるリンクをクリックしたら実行されます
+      $('a[href^="#"]').click(function() {
+        // スクロールの速度
+        var speed = 900; // ミリ秒で記述
+        var href= $(this).attr("href");
+        var target = $(href == "#" || href == "" ? 'html' : href);
+        var position = target.offset().top;
+        $('body,html').animate({scrollTop:position}, speed, 'swing');
+        return false;
+      });
+    });
+  </script>
+  <title>万全の就活準備で理想のキャリアへ| CareerWorqCafe</title>
+</head>
+
+<body class="w-100">
+  <header class="header_box">
+    <nav class="navbar navbar-expand-lg navbar-dark bg__icon">
+      <a class="navbar-brand w-25 m-2" href="https://careerworq-cafe.com"><img class="w-100" src="../img/CareerWorqCafe_logo白.png" alt="ロゴ"></a>
+      <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo02">
+        <ul class="navbar-nav pr-xl-2 mr-0">
+          <li class="nav-item">
+            <a class="menu__txt nav-link" href="#intern">インターンパッケージ</a>
+          </li>
+          <li class="nav-item">
+            <a class="menu__txt nav-link" href="#schedule">スケジュール</a>
+          </li>
+          <li class="nav-item">
+            <a class="menu__txt nav-link" href="#aftersupport">アフターサポート</a>
+          </li>
+          <li class="nav-item">
+            <a class="menu__txt nav-link" href="#access">アクセス</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <div class="main__body">
+      <div class="header__top"s>
+        <img class="w-100" src="../img/top画像.svg" alt="CareerWorqCafeのサイトtop画像">
+        <div class="text-center">
+          <a href="https://careerworq-cafe.com/" target="_blank"><img type=“button” class="btn w-50 m-3" src="../img/button.svg" onmouseover="this.src='../img/button反転.svg'" onmouseout="this.src='../img/button.svg'"></img></a>
+        </div>
+      </div>
+      <div class="intern__main">
+        <div class="onayami pb-2">
+          <h3 class="onayami__title font-weight-bold text-center p-5">＼こんなお悩みありませんか？／</h3>
+          <div class="d-flex flex-column mx-auto pb-5" style="width: 75%">
+            <div class="">
+              <p class=" text-center">「部活やサークルが忙しくてインターンのエントリーに遅れてしまった」</p>
+            </div>
+            <div class="">
+              <p class=" text-center">「大手のインターンには参加したけどもっと広くいろんな業界を知りたくなった」</p>
+            </div>
+          </div>
+        </div>
+        <div class="merit answer" id="intern">
+          <div class="answer__title">
+            <h4 class="font-weight-bold w-50 mx-auto pt-2  text-center" >その悩み,<span class="text__orange">Career Worq Cafe</span>にお任せください</h4>
+            <h4 ></h4>
+            <h4 class="w-50 mx-auto pb-4 text-center"></h4>
+            <p class="text-center">CareerWorqCafeでは、５日間で企業研究や自己分析などが出来るインターンパッケージを提供しています。</p>
+          </div>
+          <div class="answer __merit text-center">
+            <div class="merit__element text-center">
+              <div class="w-75 mx-auto m-3 p-4 border">
+                <h4 class="answer__text mb-2">全5日間のプログラムで</h4>
+                <h4 class="answer__text">就活準備からインターンまで全て完了</h4>
+                <p>自己分析や業界研究など、アドバイザーがマンツーマンで指導1回5時間の</p>
+                <p>インターン参加で様々な働き方を知る事が出来ます。</p>
+              </div>
+              <div class="w-75 mx-auto m-3 pt-5 pb-4 border">
+                <h4 class="answer__text mb-3">最大3つの業界のインターンに参加出来る</h4>
+                <p>アパレル・コンサル・製造業・商社など、</p>
+                <p>自分らしく働ける企業に出会うチャンスが増えます。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="intern__schedule">
+        <div class="fukidashi__bg" id="schedule">
+          <img class="fukidashi__img" src="../img/fukidashi1.png">
+        </div>
+        <div class="card-group text-center mt-3">
+          <div class="card">
+            <div class="card-body">
+              <div class="box">
+                <h3 class="text__orange">1日目</h3>
+              </div>
+              <h4 class="card-title">ガイダンス</h4>
+              <img src="../img/ガイダンス.png" class="icon__img">
+              <div class="schedule__text">
+                <p >マイナビ新入社員公開研修やみん就の就活イベントで活躍されている人事コンサルタントによる、業界研究の基礎講座や”働く”についての講演に参加します。</p>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <h3 class="text__orange">2〜4日目</h3>
+              <h4 class="card-title">業界別インターンシップ</h4>
+              <img src="../img/イベントテント.png" class="icon__img">
+              <div class="schedule__text">
+                <p>3日間に分けて、業界問わず多様な働き方を経験する事により、自分の興味や関心を見つけていきます。</p>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <h3 class="text__orange">5日目</h3>
+              <h4 class="card-title">振り返り面談、目標設定</h4>
+              <img src="../img/お問い合わせ.png" class="icon__img">
+              <div class="schedule__text">
+                <p>インターン参加を通じて得たものをキャリアアドバイザーと一緒に見つめ直し、理想のキャリアに近付くための目標を立てていきます。</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="text-center">
+        <a href="https://careerworq-cafe.com/" target="_blank"><img type=“button” class="btn w-50 m-3" src="../img/button.svg" onmouseover="this.src='../img/button反転.svg'" onmouseout="this.src='../img/button.svg'"></img></a>
+      </div>
+      <div class="text-center mb-5">
+        <div class="fukidashi__bg">
+          <img class="fukidashi__img" src="../img/fukidashi2.png">
+        </div>
+        <div>
+          <h4 class="support__title">インターン参加で気になった企業と後日面談が可能</h4>
+          <p class="">採用担当者様に直接あなたをアピールする事が出来るため、
+          早期に内定を獲得する可能性が高くなります。</p>
+          <div class="support__img" style="width: 50%;">
+            <img src="../img/面談画像.jpg">
+          </div>
+        </div>
+        <br>
+        <div>
+          <h4 class="support__title mt-5">就活に役立つ豊富なコンテンツが利用可能</h4>
+          <p class="">CareerWorqCafeでは、キャリアアドバイザーとの面談だけではなく、
+          データを元に企業とのマッチング率を測る”メンタルタフネステスト”や、
+          人生を振り返りES作成に役立てる”ライフライン診断”など、
+          全5つのコンテンツをいつでも利用する事が出来ます。
+          </p>
+          <div class="support__img">
+            <img src="../img/メンタフデータ.png"width="642" height="309">
+          </div>
+          <p>例：メンタルタフネステスト</p>
+        </div>
+      </div>
+      <div class="fukidashi__bg" id="aftersupport">
+        <img class="fukidashi__img" src="../img/fukidashi3.png">
+      </div>
+      <div>
+        <p>その他にも、CareerWorqCafeには学生を様々にサポート出来るコンテンツが沢山あります。
+        私たちは、あなたの就活を全力でバックアップする事をお約束します。
+        ぜひお気軽にお立ち寄り下さい。
+        </p>
+      </div>
+      <div class="card-group text-center">
+        <div class="card">
+          <div class="card-body">
+            <div class="content__txt">
+              <h5 class="card-title">勉強・貸し出しスペース</h5>
+            </div>
+            <div class="content__img">
+              <img src="../img/勉強.png" class="step__img mt-3">
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-body">
+            <div class="content__txt">
+              <h5 class="card-title">プログラミング教室</h5>
+            </div>
+            <div class="content__img">
+              <img src="../img/プログラミング.jpg" class="step__img mt-3">
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-body">
+            <div class="content__txt">
+              <h5 class="card-title">各種イベント</h5>
+            </div>
+            <div class="content__img">
+              <img src="../img/イベント.png" class="step__img mt-3">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fukidashi__bg mt-5" id="access">
+        <img class="fukidashi__img" src="../img/fukidashi4.png">
+      </div>
+      <div class="access text-center" id="access">
+        <img class="map__bg mb-5" src="../img/map画像.png">
+      </div>
+    </div>
+  </main>
+  <footer>
+    <div class="container__footer bg__icon p-1">
+      <div class="mx-auto text-center" style="width: 60%;">
+          <div class="my-1 pt-2 text-center">
+              <div class="fa-2x py-3x">
+                <a href="https://www.facebook.com/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BESTAR-CAREER-258935724624714/" target="_blank" class="fab fa-facebook-square px-2 text-white"></a>
+                <a href="https://www.instagram.com/star_career_0520/?hl=ja" target="_blank" class="fab fa-instagram px-2 text-white"></a>
+                <a href="https://twitter.com/STARCAREER2018" target="_blank" class="fab fa-twitter px-2 text-white"></a>
+              </div>
+            </div>
+        <div class="text-white copyright">Copyright &copy;<a class="copyright__link text-white" href="https://star-career.co.jp/" target="_blank">2019 STAR CAREER Inc.</a></div>
+      </div>
+    </div>
+  </footer>
+</body>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</html>
+

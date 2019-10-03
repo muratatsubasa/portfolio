@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1302" height="48" viewBox="0 0 1302 48">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #5c3f2d;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #5c3f2d;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        font-size: 48px;
+        font-family: TsukuARdGothic-Regular, Tsukushi A Round Gothic;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="グループ_46" data-name="グループ 46" transform="translate(-63.655 -8666)">
+    <path id="パス_17" data-name="パス 17" class="cls-1" d="M-66.845,0h400" transform="translate(1031.5 8689.5)"/>
+    <text id="就活生が集うカフェ" class="cls-2" transform="translate(713 8708)"><tspan x="-213.84" y="0">就活生が集うカフェ</tspan></text>
+    <path id="パス_18" data-name="パス 18" class="cls-3" d="M-66.845,0h400" transform="translate(131.5 8689.5)"/>
+  </g>
+</svg>

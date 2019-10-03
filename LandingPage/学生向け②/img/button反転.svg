@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="680" height="120" viewBox="0 0 680 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="680" height="120" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="リピートグリッド_3" data-name="リピートグリッド 3" clip-path="url(#clip-path)">
+    <g id="グループ_148" data-name="グループ 148" transform="translate(-10600 -9485)">
+      <g id="グループ_147" data-name="グループ 147" transform="translate(9980 5328)">
+        <g id="グループ_134" data-name="グループ 134" transform="translate(-3753 326)">
+          <g id="グループ_129" data-name="グループ 129" transform="translate(-40 -23)">
+            <g id="パス_7" data-name="パス 7" transform="translate(4413 3854)" fill="#fff">
+              <path d="M 675 115 L 5 115 L 5 5 L 675 5 L 675 115 Z" stroke="none"/>
+              <path d="M 10 10 L 10 110 L 670 110 L 670 10 L 10 10 M 0 0 L 680 0 L 680 120 L 0 120 L 0 0 Z" stroke="none" fill="#e58633"/>
+            </g>
+            <text id="お問い合わせはこちら" transform="translate(4528 3932)" fill="#e68d40" font-size="45" font-family="HiraKakuProN-W6, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">お問い合わせはこちら</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

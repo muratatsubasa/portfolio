@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="24" viewBox="0 0 144 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e37155;
+        font-size: 24px;
+        font-family: TsukuARdGothic-Bold, Tsukushi A Round Gothic;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="強み弱み分析" class="cls-1" transform="translate(72 21)"><tspan x="-72" y="0">強み弱み分析</tspan></text>
+</svg>

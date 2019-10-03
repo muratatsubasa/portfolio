@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="658" viewBox="0 0 1920 658">
+  <defs>
+    <filter id="前面オブジェクトで型抜き_4" x="756" y="82.557" width="829" height="445" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="前面オブジェクトで型抜き_5" x="1728" y="268.557" width="211" height="259" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="前面オブジェクトで型抜き_3" x="0" y="82.557" width="399" height="445" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="前面オブジェクトで型抜き_2" x="358.666" y="34" width="348.89" height="348.743" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="前面オブジェクトで型抜き_7" x="371" y="466.557" width="394" height="379" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="前面オブジェクトで型抜き_8" x="1515" y="508.556" width="222" height="337.001" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-LP-パズル黄色-_1">
+      <rect width="1920" height="658"/>
+    </clipPath>
+  </defs>
+  <g id="LP-パズル黄色-_1" data-name="LP-パズル黄色- – 1" clip-path="url(#clip-LP-パズル黄色-_1)">
+    <rect width="1920" height="658" fill="#e8d68c"/>
+    <g id="グループ_14" data-name="グループ 14" transform="translate(1920 826.557) rotate(-180)">
+      <g transform="matrix(-1, 0, 0, -1, 1920, 826.56)" filter="url(#前面オブジェクトで型抜き_4)">
+        <path id="前面オブジェクトで型抜き_4-2" data-name="前面オブジェクトで型抜き 4" d="M522,432a32.023,32.023,0,0,1-30.407-42H360.406a32,32,0,1,1-60.812,0H230V319h.009A32,32,0,1,0,230,255V198H165.719a32,32,0,1,1-55.437,0H42V132.406a32,32,0,1,1,0-60.813V6H234V6H810V70h-.009A32,32,0,1,0,810,134v64H746.438a32.315,32.315,0,0,1,.562,6,32,32,0,1,1-64,0,32.314,32.314,0,0,1,.562-6H614v57.247a32,32,0,0,0,0,63.5V390H552.406A31.989,31.989,0,0,1,522,432Z" transform="translate(1566 514.56) rotate(-180)" fill="#a1c7bb"/>
+      </g>
+      <g transform="matrix(-1, 0, 0, -1, 1920, 826.56)" filter="url(#前面オブジェクトで型抜き_5)">
+        <path id="前面オブジェクトで型抜き_5-2" data-name="前面オブジェクトで型抜き 5" d="M96,240a32.009,32.009,0,0,1-27.719-48H0V0H192V65.593a32,32,0,1,0,0,60.813V192H123.719A31.99,31.99,0,0,1,96,240Z" transform="translate(1920 508.56) rotate(-180)" fill="#a1c7bb"/>
+      </g>
+      <g transform="matrix(-1, 0, 0, -1, 1920, 826.56)" filter="url(#前面オブジェクトで型抜き_3)">
+        <path id="前面オブジェクトで型抜き_3-2" data-name="前面オブジェクトで型抜き 3" d="M316,426a32.025,32.025,0,0,1-30.407-42H220V318.406a32,32,0,1,1,0-60.813V192H158.406a32,32,0,1,1-60.813,0H32V128h.009A32,32,0,1,0,32,64V0H412V384H346.406A31.989,31.989,0,0,1,316,426Z" transform="translate(412 508.56) rotate(-180)" fill="#a1c7bb"/>
+      </g>
+      <g transform="matrix(-1, 0, 0, -1, 1920, 826.56)" filter="url(#前面オブジェクトで型抜き_2)">
+        <path id="前面オブジェクトで型抜き_2-2" data-name="前面オブジェクトで型抜き 2" d="M125.41,256A32.155,32.155,0,0,1,95.8,236.455,32,32,0,0,1,94.874,214H29V156.861c.991.092,2,.139,3.013.139a32.154,32.154,0,0,0,29.611-19.544,31.885,31.885,0,0,0-6.887-35.084A32.1,32.1,0,0,0,32.013,93c-1,0-2.018.047-3.013.139V22H94.874a32.137,32.137,0,1,0,61.072,0H221.82V91.594a32.194,32.194,0,0,1,32.767,7.778A32.01,32.01,0,0,1,231.863,154a32.233,32.233,0,0,1-10.043-1.593V214H155.947a32.055,32.055,0,0,1-30.536,42Z" transform="matrix(-0.78, 0.63, -0.63, -0.78, 724.94, 214.7)" fill="#a1c7bb"/>
+      </g>
+      <g transform="matrix(-1, 0, 0, -1, 1920, 826.56)" filter="url(#前面オブジェクトで型抜き_7)">
+        <path id="前面オブジェクトで型抜き_7-2" data-name="前面オブジェクトで型抜き 7" d="M-1634-1001a31.8,31.8,0,0,1-12.455-2.515,31.894,31.894,0,0,1-10.172-6.858,31.9,31.9,0,0,1-6.858-10.172A31.8,31.8,0,0,1-1666-1033a31.958,31.958,0,0,1,1.594-10h-123.187a31.972,31.972,0,0,0,1.594-10,31.8,31.8,0,0,0-2.515-12.456,31.9,31.9,0,0,0-6.858-10.172,31.892,31.892,0,0,0-10.171-6.858A31.8,31.8,0,0,0-1818-1085a31.8,31.8,0,0,0-12.456,2.515,31.893,31.893,0,0,0-10.172,6.858,31.893,31.893,0,0,0-6.858,10.172A31.8,31.8,0,0,0-1850-1053a31.974,31.974,0,0,0,1.594,10H-1914v-318h376v318h-65.594a31.965,31.965,0,0,1,1.594,10,31.8,31.8,0,0,1-2.515,12.456,31.894,31.894,0,0,1-6.858,10.172,31.9,31.9,0,0,1-10.172,6.858A31.8,31.8,0,0,1-1634-1001Z" transform="translate(-1158 -534.44) rotate(-180)" fill="#a1c7bb"/>
+      </g>
+      <g transform="matrix(-1, 0, 0, -1, 1920, 826.56)" filter="url(#前面オブジェクトで型抜き_8)">
+        <path id="前面オブジェクトで型抜き_8-2" data-name="前面オブジェクトで型抜き 8" d="M-1842.406-1043H-1914v-318h204v318h-71.594a31.974,31.974,0,0,0,1.594-10,31.8,31.8,0,0,0-2.515-12.456,31.893,31.893,0,0,0-6.858-10.172,31.891,31.891,0,0,0-10.171-6.858A31.8,31.8,0,0,0-1812-1085a31.8,31.8,0,0,0-12.456,2.515,31.893,31.893,0,0,0-10.172,6.858,31.893,31.893,0,0,0-6.858,10.172A31.8,31.8,0,0,0-1844-1053a31.975,31.975,0,0,0,1.594,10Z" transform="translate(-186 -534.44) rotate(-180)" fill="#a1c7bb"/>
+      </g>
+      <rect id="長方形_20" data-name="長方形 20" width="200" height="318" fill="#a1c7bb"/>
+      <rect id="長方形_21" data-name="長方形 21" width="800" height="318" transform="translate(364 0)" fill="#a1c7bb"/>
+      <rect id="長方形_22" data-name="長方形 22" width="390" height="325" transform="translate(1540)" fill="#a1c7bb"/>
+    </g>
+  </g>
+</svg>

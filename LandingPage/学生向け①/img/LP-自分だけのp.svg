@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="426" viewBox="0 0 1920 426">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6ea19d;
+      }
+
+      .cls-2 {
+        fill: #f3f0ea;
+        font-size: 60px;
+        font-family: TsukuARdGothic-Bold, Tsukushi A Round Gothic;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #f3f0ea;
+        stroke-linecap: round;
+        stroke-width: 10px;
+        stroke-dasharray: 10 30;
+      }
+    </style>
+  </defs>
+  <g id="グループ_78" data-name="グループ 78" transform="translate(108 41)">
+    <path id="前面オブジェクトで型抜き_35" data-name="前面オブジェクトで型抜き 35" class="cls-1" d="M1920,576H0V150H810a151.088,151.088,0,0,0,3.047,30.23,149.184,149.184,0,0,0,22.57,53.636,150.431,150.431,0,0,0,66,54.345,149.2,149.2,0,0,0,28.156,8.74,151.466,151.466,0,0,0,60.46,0,149.193,149.193,0,0,0,53.636-22.57,150.439,150.439,0,0,0,54.345-66,149.258,149.258,0,0,0,8.74-28.156A151.121,151.121,0,0,0,1110,150h810V576Z" transform="translate(-108 -191)"/>
+    <g id="グループ_77" data-name="グループ 77" transform="translate(-32.5 -25.007)">
+      <text id="自分だけのパズルを完成させよう" class="cls-2" transform="translate(884 250.007)"><tspan x="-447.6" y="0">自分だけのパズルを完成させよう</tspan></text>
+      <path id="パス_25" data-name="パス 25" class="cls-3" d="M0,0H1000" transform="translate(384.5 297.945)"/>
+    </g>
+  </g>
+</svg>

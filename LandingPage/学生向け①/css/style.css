@@ -1,0 +1,186 @@
+/* .body2{
+  max-width: 1024px;
+  margin: 0 auto;
+} */
+p{
+  font-size: 20px;
+  color: #FCF9F2;
+}
+
+.logo{
+  width: 200px; height: auto;
+}
+h6{
+  color: #5C3F2D;
+}
+.sentence{
+  font-size: 20px;
+  color: #FCF9F2;
+}
+.item1{
+  width: auto;
+  height: 80%;
+}
+.item2{
+  width: 60%;
+  margin: auto;
+}
+.item3{
+  width: 60%;
+  height: auto;
+  margin: auto;
+}
+.item6{
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+.icon{
+  text-align: center;
+  margin: auto;
+}
+.caption2{
+  border-right:#5C3F2D solid;
+  border-width: 2px;
+}
+.closing{
+  font-size: 28px;
+  color: #6EA19D;
+  font-weight: bold;
+}
+footer{
+  background-color: #6EA19D;
+  padding: 30px;
+}
+.copyright{
+  text-align: center
+}
+.btnp{
+  display: none;
+}
+.caption{
+  width: 20%;
+  height: auto;
+  text-align: center;
+}
+.tomato{
+  font-size: 36px;
+}
+
+.word{
+  font-size: 24px;
+}
+
+
+
+@media screen and (max-width:575px){
+  .logo{
+    width: 110px; height: auto;
+  }
+  h6{
+    font-size:10px;
+    text-align: center;
+  }
+  p{
+    font-size: 10px;
+    color: #FCF9F2;
+  }
+  .content{
+    width: auto;
+    height: 25px;
+    text-align: center;
+    margin-bottom: 5px;
+    }
+
+  .closing{
+    font-size: 24px;
+    color: #6EA19D;
+    font-weight: bold;
+  }
+  .item2{
+    width: 80%;
+    margin: auto;
+  }
+  .item3{
+    width: 40%;
+    height: auto;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .item5{
+    text-align: center;
+  }
+  .item6{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .icon{
+    width: 240px;
+    height: auto;
+    text-align: center;
+  }
+  .CWC{
+    margin: auto;
+    text-align: center;
+  }
+  .caption{
+    width: 40%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+  }
+  .caption2{
+    border: 0;
+  }
+  footer{
+    width: 100%;
+    height: auto;
+    background-color: #6EA19D;
+  }
+  .btnp{
+    display: block;
+  }
+  h2{
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  #page_top{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: -50px;
+    bottom: 50px;
+
+  }
+  #page_top a{
+    position: relative;
+    display: block;
+    width: 30px;
+    height: 30px;
+    text-decoration: none;
+  }
+  #page_top a::before{
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    content: '\f102';
+    font-size: 15px;
+    color: #fff;
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    top: -5px;
+    bottom: 10px;
+    right:9px;
+    left: 0;
+    margin: auto;
+    text-align: center;
+  }
+  .tomato{
+    font-size:16px;
+  }
+  .word{
+    font-size: 10px;
+  }
+}

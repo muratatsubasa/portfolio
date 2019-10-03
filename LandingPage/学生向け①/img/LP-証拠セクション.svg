@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-LP-証拠セクション);
+      }
+
+      .cls-12, .cls-2, .cls-6, .cls-8 {
+        fill: #f3f0ea;
+      }
+
+      .cls-3 {
+        fill: #a1c7bb;
+      }
+
+      .cls-11, .cls-13, .cls-14, .cls-20, .cls-4, .cls-7 {
+        fill: #6ea19d;
+      }
+
+      .cls-10, .cls-5, .cls-9 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #a1c7bb;
+        stroke-width: 5px;
+      }
+
+      .cls-6 {
+        font-size: 18px;
+      }
+
+      .cls-13, .cls-14, .cls-16, .cls-17, .cls-6, .cls-7, .cls-8 {
+        font-family: TsukuARdGothic-Bold, Tsukushi A Round Gothic;
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 56px;
+      }
+
+      .cls-20, .cls-9 {
+        stroke: #6ea19d;
+      }
+
+      .cls-10, .cls-9 {
+        stroke-width: 10px;
+      }
+
+      .cls-10 {
+        stroke: #f3f0ea;
+      }
+
+      .cls-11, .cls-12 {
+        font-size: 32px;
+        font-family: HiraginoSans-W3, Hiragino Sans;
+      }
+
+      .cls-13, .cls-16 {
+        font-size: 36px;
+      }
+
+      .cls-14, .cls-17 {
+        font-size: 24px;
+      }
+
+      .cls-15, .cls-16, .cls-17 {
+        fill: #fcf9f2;
+      }
+
+      .cls-15 {
+        stroke: #fcf9f2;
+      }
+
+      .cls-15, .cls-20 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+        stroke-dasharray: 10 10;
+      }
+
+      .cls-18 {
+        text-decoration: underline;
+      }
+
+      .cls-19 {
+        font-family: LucidaGrande-Bold, Lucida Grande;
+      }
+
+      .cls-21 {
+        filter: url(#長方形_28);
+      }
+
+      .cls-22 {
+        filter: url(#長方形_25);
+      }
+
+      .cls-23 {
+        filter: url(#パス_13);
+      }
+
+      .cls-24 {
+        filter: url(#長方形_27);
+      }
+
+      .cls-25 {
+        filter: url(#長方形_26);
+      }
+    </style>
+    <filter id="長方形_26" x="160" y="140" width="819" height="419" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_27" x="160" y="540" width="819" height="419" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="パス_13" x="650.036" y="602" width="249.964" height="289" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_25" x="960" y="140" width="819" height="419" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_28" x="960" y="540" width="819" height="419" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-LP-証拠セクション">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="LP-証拠セクション" class="cls-1">
+    <rect class="cls-3" width="1920" height="1080"/>
+    <g class="cls-25" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="長方形_26-2" data-name="長方形 26" class="cls-2" width="800" height="400" transform="translate(160 140)"/>
+    </g>
+    <g id="グループ_80" data-name="グループ 80">
+      <g class="cls-24" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <rect id="長方形_27-2" data-name="長方形 27" class="cls-2" width="800" height="400" transform="translate(160 540)"/>
+      </g>
+      <g id="グループ_81" data-name="グループ 81" transform="translate(0 -40)">
+        <ellipse id="楕円形_121" data-name="楕円形 121" class="cls-3" cx="136.5" cy="135" rx="136.5" ry="135" transform="translate(608 642)"/>
+        <g class="cls-23" transform="matrix(1, 0, 0, 1, 0, 40)">
+          <path id="パス_13-2" data-name="パス 13" class="cls-4" d="M135,0A135,135,0,1,1,40.16,231.055h0s35.132-32.32,40.408-37.725C109.527,163.648,135,135,135,135Z" transform="translate(611 602)"/>
+        </g>
+      </g>
+      <path id="パス_14" data-name="パス 14" class="cls-5" d="M0,0H0V1.055H0V135" transform="translate(746.5 602.5)"/>
+      <text id="やった" class="cls-6" transform="translate(805.5 779)"><tspan x="-26.46" y="0">やった</tspan></text>
+      <text id="_63_" data-name="63%" class="cls-6" transform="translate(805.5 810)"><tspan x="-17.568" y="0">63%</tspan></text>
+      <text id="_37_" data-name="37%" class="cls-6" transform="translate(677.5 745)"><tspan x="-17.568" y="0">37%</tspan></text>
+      <text id="やっていない" class="cls-6" transform="translate(677.5 715)"><tspan x="-53.1" y="0">やっていない</tspan></text>
+    </g>
+    <g class="cls-22" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="長方形_25-2" data-name="長方形 25" class="cls-4" width="800" height="400" transform="translate(960 140)"/>
+    </g>
+    <g class="cls-21" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="長方形_28-2" data-name="長方形 28" class="cls-4" width="800" height="400" transform="translate(960 540)"/>
+    </g>
+    <text id="自己分析をする目的" class="cls-7" transform="translate(150 193)"><tspan x="149.12" y="49">自己分析をする目的</tspan></text>
+    <text id="企業研究をする目的" class="cls-8" transform="translate(960 193)"><tspan x="149.12" y="49">企業研究をする目的</tspan></text>
+    <line id="線_3" data-name="線 3" class="cls-9" x2="1" y2="60" transform="translate(250.5 193.5)"/>
+    <path id="パス_12" data-name="パス 12" class="cls-10" d="M0,0V60" transform="translate(1060.5 193.5)"/>
+    <text id="_自分が何をしたいか明確化するため_自分を他者にわかりやすく伝えるため_" data-name="・自分が何をしたいか明確化するため。
+・自分を他者にわかりやすく伝えるため。" class="cls-11" transform="translate(235 324)"><tspan x="0" y="0">・自分が何をしたいか明確化するため。</tspan><tspan x="0" y="70">・自分を他者にわかりやすく伝えるため。</tspan></text>
+    <text id="_企業の特徴や特色を把握するため_自分の適性のある業界を知るため_" data-name="・　企業の特徴や特色を把握するため。
+・　自分の適性のある業界を知るため。" class="cls-12" transform="translate(1043 330)"><tspan x="0" y="0">・　企業の特徴や特色を把握するため。</tspan><tspan x="0" y="70">・　自分の適性のある業界を知るため。</tspan></text>
+    <text id="先輩たちも就活中に自己分析をやった_" data-name="先輩たちも就活中に自己分析をやった？" class="cls-13" transform="translate(159.5 483)"><tspan x="78.12" y="32">先輩たちも就活中に自己分析をやった？</tspan></text>
+    <line id="線_5" data-name="線 5" class="cls-5" x1="95" y2="99" transform="translate(652.5 735.5)"/>
+    <text id="_就活中に自己分析をやりましたか_という質問に_やった_と答えたのは_やっていない_と答えたのは_半数以上の先輩たちが_自己分析をしていた事がわかります_" data-name="「就活中に自己分析をやりましたか？」
+という質問に、
+「やった」と答えたのは６３％
+「やっていない」と答えたのは３７％
+半数以上の先輩たちが、
+自己分析をしていた事がわかります。" class="cls-14" transform="translate(382 625)"><tspan x="-215.52" y="0">「就活中に自己分析をやりましたか？」</tspan><tspan x="-83.64" y="50">という質問に、</tspan><tspan x="-167.28" y="100">「やった」と答えたのは６３％</tspan><tspan x="-202.8" y="150">「やっていない」と答えたのは３７％</tspan><tspan x="-130.92" y="200">半数以上の先輩たちが、</tspan><tspan x="-199.68" y="250">自己分析をしていた事がわかります。</tspan></text>
+    <path id="パス_79" data-name="パス 79" class="cls-15" d="M0,2.58H800" transform="translate(960 547.5)"/>
+    <text id="企業研究やらないとどうなる_" data-name="企業研究やらないとどうなる？" class="cls-16" transform="translate(960.5 483)"><tspan x="149.58" y="32">企業研究やらないとどうなる？</tspan></text>
+    <path id="パス_82" data-name="パス 82" class="cls-2" d="M62.5,0A62.5,62.5,0,1,1,0,62.5,62.5,62.5,0,0,1,62.5,0Z" transform="translate(888 299)"/>
+    <text id="イメージや先入観で仕事を決めてしまうと_やりたいことができなかったり_後々ギャップに苦しめられて_モチベーションを保つことができなくなります_また_面接などでも調べていないことがバレてしまい_マイナスイメージを持たれてしまいます_だからこそ企業研究は必要不可欠なんです_" data-name="イメージや先入観で仕事を決めてしまうと、
+やりたいことができなかったり、
+後々ギャップに苦しめられて
+モチベーションを保つことができなくなります。
+また、面接などでも調べていないことがバレてしまい
+マイナスイメージを持たれてしまいます。
+だからこそ企業研究は必要不可欠なんです‼︎
+
+" class="cls-17" transform="translate(1360 600)"><tspan x="-239.04" y="0">イメージや先入観で仕事を決めてしまうと、</tspan><tspan x="-178.92" y="50">やりたいことができなかったり、</tspan><tspan x="-153.6" y="100">後々ギャップに苦しめられて</tspan><tspan x="-261" y="150">モチベーションを保つことができなくなります。</tspan><tspan x="-288" y="200">また、面接などでも調べていないことがバレてしまい</tspan><tspan x="-222.36" y="250">マイナスイメージを持たれてしまいます。</tspan><tspan class="cls-18"><tspan x="-233.55" y="300">だからこそ企業研究は必要不可欠なんです</tspan><tspan class="cls-19" y="300">‼︎</tspan><tspan y="300"></tspan></tspan><tspan x="0" y="350"></tspan><tspan x="0" y="400"></tspan></text>
+    <path id="パス_24" data-name="パス 24" class="cls-20" d="M0,2.58H800" transform="translate(160 547.5)"/>
+    <circle id="楕円形_157" data-name="楕円形 157" class="cls-4" cx="62.5" cy="62.5" r="62.5" transform="translate(908 684)"/>
+  </g>
+</svg>

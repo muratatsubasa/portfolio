@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="182" viewBox="0 0 1000 182">
+  <g id="グループ_163" data-name="グループ 163" transform="translate(-460 -3299)">
+    <g id="グループ_108" data-name="グループ 108">
+      <line id="線_35" data-name="線 35" y1="38" transform="translate(462.5 3299.5)" fill="none" stroke="#707070" stroke-width="5"/>
+      <line id="線_37" data-name="線 37" y1="38" transform="translate(462.5 3440.5)" fill="none" stroke="#707070" stroke-width="5"/>
+      <g id="グループ_46" data-name="グループ 46" transform="translate(14 -1329)">
+        <text id="Recurutement" transform="translate(960 4715)" font-size="74" font-family="HiraginoSans-W4, Hiragino Sans"><tspan x="-268.176" y="0">Recurutement</tspan></text>
+        <line id="線_34" data-name="線 34" x2="91" transform="translate(448.5 4630.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <line id="線_36" data-name="線 36" x2="91" transform="translate(448.5 4807.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <text id="人財紹介" transform="translate(960 4797)" fill="#a7afc4" font-size="56" font-family="HiraginoSans-W4, Hiragino Sans"><tspan x="-112" y="0">人財紹介</tspan></text>
+        <line id="線_38" data-name="線 38" x2="91" transform="translate(1352.5 4630.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <line id="線_39" data-name="線 39" y1="38" transform="translate(1443.5 4630.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <line id="線_40" data-name="線 40" y1="38" transform="translate(1443.5 4769.5)" fill="none" stroke="#707070" stroke-width="5"/>
+        <line id="線_41" data-name="線 41" x2="91" transform="translate(1352.5 4807.5)" fill="none" stroke="#707070" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

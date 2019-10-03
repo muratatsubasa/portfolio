@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="24" viewBox="0 0 96 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e37155;
+        font-size: 24px;
+        font-family: TsukuARdGothic-Bold, Tsukushi A Round Gothic;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="適性検査" class="cls-1" transform="translate(48 21)"><tspan x="-48" y="0">適性検査</tspan></text>
+</svg>

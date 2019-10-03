@@ -1,0 +1,128 @@
+@media screen and (max-width: 767px) {
+
+    .all {
+        font-size: 16px;
+        margin: 0;
+    }
+    .service {
+        display: inline;
+    }
+}
+@media (min-width: 768px) {
+    .service {
+        text-align: center;
+        display: flex;
+    }
+    .yellow{
+        margin: 0 auto;
+    }
+    .green {
+        margin: 0 auto;
+    }
+    .skyblue {
+        margin: 0 auto;
+    }
+    .blue {
+        margin: 0 auto;
+    }
+
+}
+.all {
+    font-size: 20px;
+    text-align: center;
+}
+.row-eq-height {
+    display: flex;
+    flex-wrap: wrap;
+}
+.header {
+    background-color: #4cb092;
+    max-width:1024px;
+    margin: 0 auto;
+}
+.border {
+    font-size:5px；
+}
+.bg-green {
+    background-color: #4cb092;
+}
+.logo {
+    width: 100%;
+    margin: 1%;
+}
+.main{
+    text-align: center;
+    font-size: 24px;
+    max-width:1024px;
+    margin: 0 auto;
+}
+footer {
+    max-width:1024px;
+    margin: 0 auto;
+}
+.top {
+    color:#fff;
+}
+
+.hukidashi {
+    width: 5%;
+    height: 100%;
+}
+
+.box2 {
+    margin: 5%;
+    font-size:20px;
+}
+
+p.box2 {
+    font-size: 50%;
+}
+.first-point {
+    display: flex;
+    margin-left: 5%;
+}
+.point-description {
+    width: 100%;
+}
+.services {
+    font-size: 16px;
+}
+
+.serviceidentification {
+    background-color: #c8e5da;
+    text-align: center;
+}
+
+.yellow{
+    background-color:#ffe582;
+}
+.green {
+    background-color:#cce846;
+}
+.skyblue {
+    background-color:#98ede7;
+}
+.blue {
+    background-color:#8ed4f9;
+}
+.two-features {
+    background-color:#f8f5f5;
+    margin-top:5%;
+    padding: 5%;
+    text-align: center
+}
+.keiko {
+    background: linear-gradient(transparent 50%, yellow 50%);
+    padding: 0;
+    font: bold;
+}
+.serif {
+    font-family: serif;
+}
+.h1{
+    border-left: solid 5px yellow;
+}
+
+.h2 {
+    color:#f7e04b;
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="24" viewBox="0 0 192 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a1c7bb;
+        font-size: 24px;
+        font-family: TsukuARdGothic-Bold, Tsukushi A Round Gothic;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="複数の業界を知る" class="cls-1" transform="translate(96 21)"><tspan x="-96" y="0">複数の業界を知る</tspan></text>
+</svg>
